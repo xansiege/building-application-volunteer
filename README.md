@@ -9,3 +9,4 @@ Please use this format:<br>
 
 The following are the volunteers accepted:
 * Oon Arfiandi, [oo.or.id](https://oo.or.id).
+* Someone, [ss.dd.ss](https://ss.ss.ss).
